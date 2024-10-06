@@ -123,7 +123,7 @@ const questions = [
             'South Africa',
             'England'
         ],
-        answer : '2',
+        answer : '1',
         score : 1
     }
 ];
