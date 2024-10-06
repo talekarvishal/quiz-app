@@ -114,6 +114,17 @@ const questions = [
         ],
         answer : '3',
         score : 1
+    },
+    {
+        title : 'Who is th winner of t20 Worldcup  2024?',
+        options : [
+            'Austrila',
+            'India',
+            'South Africa',
+            'England'
+        ],
+        answer : '2',
+        score : 1
     }
 ];
 
