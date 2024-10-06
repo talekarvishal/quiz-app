@@ -6,6 +6,28 @@ let score;
 
 const questions = [
     {
+        title : 'Who is th winner of t20 Worldcup  2024?',
+        options : [
+            'Austrila',
+            'India',
+            'South Africa',
+            'England'
+        ],
+        answer : '1',
+        score : 1
+    },
+    {
+        title : 'Nick name of Rohit Sharma?',
+        options : [
+            'Hitman',
+            'Shana',
+            'Mumbai cha Raja',
+            'Indian cha Raja'
+        ],
+        answer : '1',
+        score : 1
+    },
+    {
         title : 'WWW stands for ?',
         options : [
             'World Whole Web', 
@@ -115,28 +137,7 @@ const questions = [
         answer : '3',
         score : 1
     },
-    {
-        title : 'Who is th winner of t20 Worldcup  2024?',
-        options : [
-            'Austrila',
-            'India',
-            'South Africa',
-            'England'
-        ],
-        answer : '1',
-        score : 1
-    },
-    {
-        title : 'Nick name of Rohit Sharma?',
-        options : [
-            'Hitman',
-            'Shana',
-            'Mumbai cha Raja',
-            'Indian cha Raja'
-        ],
-        answer : '1',
-        score : 1
-    }
+   
 ];
 
 function restartScreen() {
