@@ -125,6 +125,17 @@ const questions = [
         ],
         answer : '1',
         score : 1
+    },
+    {
+        title : 'Nick name of Rohit Sharma?',
+        options : [
+            'Hitman',
+            'Shana',
+            'Mumbai cha Raja',
+            'Indian cha Raja'
+        ],
+        answer : '1',
+        score : 1
     }
 ];
 
